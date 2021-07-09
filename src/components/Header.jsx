@@ -4,15 +4,14 @@ import Close  from './svg/times-solid.svg'
 
 export default function Header() {
     return (
-        
         <header>
             <div className='logo'>
                 <h1><a href='/'>La Cuisine De Thian</a></h1>
             </div>
             <ul>
-                <li><a href='/'>Home</a></li>
+                <li><a href='/'>Accueil</a></li>
                 <li><a href='/'>Food</a></li>
-                <li><a href='/'>About</a></li>
+                <li><a href='/'>Qui Somme Nous</a></li>
                 <li><a href='/'>Contact</a></li>
                 <li><a href='/'>Login / Register</a></li>
                 <li>
